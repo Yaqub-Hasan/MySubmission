@@ -1,0 +1,1 @@
+String BaseUrl = "https://api.sampleapis.com/futurama/characters";
